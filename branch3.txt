@@ -1,1 +1,2 @@
 i am a branch3 . i am exists just in branch.branch3 is a branch just exits in branch3.
+  i am learning git merge.
