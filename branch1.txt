@@ -1,3 +1,5 @@
 i am a branch1 . i am exists just in branch.branch1 is a branch just exits in branch1.
 
 i am learning github branch .its very interesting.
+
+i am learning github merge 
